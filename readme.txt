@@ -1,1 +1,1 @@
-Welcome to the OpenCV-based proj
+Welcome to the OpenCV-based project
