@@ -1,1 +1,1 @@
-Welcome to the OpenCV-based project, origin
+Welcome to the OpenCV-based project, originall
