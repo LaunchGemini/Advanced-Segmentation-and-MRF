@@ -1,1 +1,1 @@
-Welcome to the OpenCV-based project, originally ar
+Welcome to the OpenCV-based project, originally articulate
