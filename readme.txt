@@ -1,1 +1,1 @@
-Welcome to the OpenCV-based project, originally articulated by LaunchGemini. It comprises the gener
+Welcome to the OpenCV-based project, originally articulated by LaunchGemini. It comprises the generation o
