@@ -1,1 +1,1 @@
-Welcome to the OpenCV-based project, originally articulated by LaunchGemini. It comprises the generation of segmentation using depth 
+Welcome to the OpenCV-based project, originally articulated by LaunchGemini. It comprises the generation of segmentation using depth maps a
