@@ -1,1 +1,1 @@
-Welcome to the OpenCV-based project, originally articulated by LaunchGemini. It comprises the generation of segmentation using depth maps and image denoising utilizing Markov Random Field (MRF) following the Fusion4D methodology. Get fu
+Welcome to the OpenCV-based project, originally articulated by LaunchGemini. It comprises the generation of segmentation using depth maps and image denoising utilizing Markov Random Field (MRF) following the Fusion4D methodology. Get further in
